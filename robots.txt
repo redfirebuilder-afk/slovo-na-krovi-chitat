@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redfirebuilder-afk.github.io/slovo-na-krovi-chitat/sitemap.xml
